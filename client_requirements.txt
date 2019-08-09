@@ -1,0 +1,8 @@
+numpy==1.16.4
+pandas==0.24.2
+git+https://github.com/h2oai/pandas-ml#egg=pandas-ml
+thrift==0.11.0
+numpy==1.16.4
+pandas==0.24.2
+git+https://github.com/h2oai/pandas-ml#egg=pandas-ml
+https://s3.amazonaws.com/artifacts.h2o.ai/releases/ai/h2o/pydatatable/0.8.0.dai-1.73/x86_64-centos7/datatable-0.8.0.dai-1.73-cp36-cp36m-linux_x86_64.whl
